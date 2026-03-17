@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,40:a855f7,70:9333ea,100:818cf8&height=200&section=header&text=Fatma%20Nassib%20Abdallah&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Computer%20Scientist%20%7C%20Builder%20%7C%20Explorer&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Fatma+%F0%9F%91%8B;Computer+Science+%40+UDSM;Building+user-focused+tech+%F0%9F%9A%80;Always+learning%2C+always+creating!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Fatma+%F0%9F%91%8B;Computer+Science+student+🙂🙌🏼;I+love+me+😁😙;Building+user-focused+tech+%F0%9F%9A%80;Always+learning%2C+always+creating!)](https://git.io/typing-svg)
 
 <!-- Profile Views & Followers -->
 ![Profile Views](https://komarev.com/ghpvc/?username=fatma-nassib&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS)
@@ -20,12 +20,12 @@
 class Fatma:
     name       = "Fatma Nassib Abdallah"
     pronouns   = "she/her"
-    location   = "Dar es Salaam, Tanzania 🇹🇿"
+    location   = "Dar es Salaam, Tanzania"
     university = "University of Dar es Salaam"
     field      = "Computer Science"
     passion    = "Building innovative, user-focused technology"
 
-    currently_working_on = ["DHIS2 projects", "Data Quality Analysis", "Web Apps"]
+    currently_working_on = ["Projects", "Data Quality Analysis", "Web Apps"]
     currently_learning   = ["System Design", "Cloud Architecture", "Data Science"]
     looking_to_collab    = ["Open Source", "Research", "Full-Stack Projects"]
     ask_me_about         = ["Tech", "CS concepts", "Project ideas"]
@@ -158,6 +158,6 @@ class Fatma:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:818cf8,30:9333ea,60:a855f7,100:c084fc&height=100&section=footer" width="100%"/>
 
-*"She believed she could, so she did." — Built with 💜 from Dar es Salaam, Tanzania 🇹🇿*
+*"She believed she could, so she did." — Built with 💜 fatma*
 
 </div>
