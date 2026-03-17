@@ -25,7 +25,7 @@ class Fatma:
     field      = "Computer Science"
     passion    = "Building innovative, user-focused technology"
 
-    currently_working_on = ["DHIS2 projects", "Data Quality Analysis", "Web Apps"]
+    currently_working_on = ["Projects", "Data Quality Analysis", "Web Apps"]
     currently_learning   = ["System Design", "Cloud Architecture", "Data Science"]
     looking_to_collab    = ["Open Source", "Research", "Full-Stack Projects"]
     ask_me_about         = ["Tech", "CS concepts", "Project ideas"]
