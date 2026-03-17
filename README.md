@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Fatma%20Nassib%20Abdallah&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Computer%20Scientist%20%7C%20Builder%20%7C%20Explorer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,30:4c1d95,60:6d28d9,100:2563eb&height=200&section=header&text=Fatma%20Nassib%20Abdallah&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Computer%20Scientist%20%7C%20Builder%20%7C%20Explorer&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Fatma+%F0%9F%91%8B;I+love+me+😁;Building+user-focused+tech+%F0%9F%9A%80;Always+learning%2C+always+creating!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Fatma+%F0%9F%91%8B;Computer+Science+%40+UDSM;Building+user-focused+tech+%F0%9F%9A%80;Always+learning%2C+always+creating!)](https://git.io/typing-svg)
 
 <!-- Profile Views & Followers -->
 ![Profile Views](https://komarev.com/ghpvc/?username=fatma-nassib&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS)
@@ -25,7 +25,7 @@ class Fatma:
     field      = "Computer Science"
     passion    = "Building innovative, user-focused technology"
 
-    currently_working_on = ["Projects", "Data Quality Analysis", "Web Apps"]
+    currently_working_on = ["DHIS2 projects", "Data Quality Analysis", "Web Apps"]
     currently_learning   = ["System Design", "Cloud Architecture", "Data Science"]
     looking_to_collab    = ["Open Source", "Research", "Full-Stack Projects"]
     ask_me_about         = ["Tech", "CS concepts", "Project ideas"]
@@ -156,8 +156,8 @@ class Fatma:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,40:6d28d9,70:4c1d95,100:1e1b4b&height=100&section=footer" width="100%"/>
 
-*"She believed she could, so she did." - Built with 💜 Fatma*
+*"She believed she could, so she did." — Built with 💜 from Dar es Salaam, Tanzania 🇹🇿*
 
 </div>
