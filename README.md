@@ -25,7 +25,7 @@ class Fatma:
     field      = "Computer Science"
     passion    = "Building innovative, user-focused technology"
 
-    currently_working_on = ["DHIS2 projects", "Data Quality Analysis", "Web Apps"]
+    currently_working_on = ["Projects", "Data Quality Analysis", "Web Apps"]
     currently_learning   = ["System Design", "Cloud Architecture", "Data Science"]
     looking_to_collab    = ["Open Source", "Research", "Full-Stack Projects"]
     ask_me_about         = ["Tech", "CS concepts", "Project ideas"]
@@ -110,7 +110,7 @@ class Fatma:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=fatma-nassib&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+![Trophies](https://github-profile-trophy.vercel.app/?username=fatma-nassib&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 </div>
 
