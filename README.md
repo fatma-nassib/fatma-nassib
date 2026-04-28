@@ -7,7 +7,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Fatma+%F0%9F%91%8B;Computer+Science+student+🙂🙌🏼;I+love+me+😁😙;Building+user-focused+tech+%F0%9F%9A%80;Always+learning%2C+always+creating!)](https://git.io/typing-svg)
 
 <!-- Profile Views & Followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=fatma-nassib&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/fatma-nassib?style=for-the-badge&color=a855f7&labelColor=1a1a2e)](https://github.com/fatma-nassib)
 
 </div>
